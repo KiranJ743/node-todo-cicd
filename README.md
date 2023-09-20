@@ -15,3 +15,4 @@ Run these commands:
 
 or run by docker compose
 
+test
